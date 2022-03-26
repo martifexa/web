@@ -1,0 +1,34 @@
+{
+    "members": [
+        {
+            "title": "Ридди Скотт",
+            "content": "Главный по скоту, Умеет читать рэп как Трэвис Скотт",
+            "image": "../static/img/scott.jpg"
+        },
+        {
+            "title": "Энди Уир",
+            "content": "Сдал УИР на 5 и взял такую фамилию, МНС ММСП",
+          "image": "../static/img/uir.jpg"
+        },
+        {
+            "title": "Марк Уотни",
+            "content": "Главный по макаронам, Уборщик",
+          "image": "../static/img/mark.jpg"
+        },
+      {
+            "title": "Венката Капур",
+            "content": "Прекрасна леди-инженер, Умеет готовить",
+        "image": "../static/img/kapur.jpg"
+        },
+      {
+            "title": "Тедди Сандерс",
+            "content": "Мастер крылышек KFC, Боксмастер",
+        "image": "../static/img/sanders.jpg"
+        },
+      {
+            "title": "Шон Бин",
+            "content": "Be, was/were, been - это всё про него, Полиглот. Знает язык марсиан",
+        "image": "../static/img/bin.jpg"
+        }
+    ]
+}
